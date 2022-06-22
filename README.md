@@ -19,4 +19,4 @@ SSIS transfers data from the databases of the production environment to the data
 ![](images_ETL/2022-06-20_22h53_36.png)
 ![](images_ETL/2022-06-20_22h53_58.png)
 ![](images_ETL/2022-06-20_22h54_06.png)
-![](images_ETL/2022-06-20_22h54_50.png)
+
